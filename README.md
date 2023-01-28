@@ -45,7 +45,7 @@ The trained models and numpy arrays of metrics (containing train loss, train acc
 
 
 ## Acknowledgement
-I would like to acknowledge the following code repositories on which our code is based:
+We would like to acknowledge the following code repositories on which our code is based:
 
 - [loss-landscape](https://github.com/tomgoldstein/loss-landscape)
 - [sam](https://github.com/davda54/sam)
